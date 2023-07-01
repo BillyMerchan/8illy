@@ -13,7 +13,7 @@
 
 ## What I'm Working On
 <details>
-<summary><small><b>Libre</b></small></summary>
+<summary><small><b>Libre</b> ⭐ </small></summary>
   
 Libre is a platform allowing students to reserve individual study rooms in university libraries.
 
@@ -22,6 +22,12 @@ This project was thought of as a solution to combat the hassle students face whe
 [Libre](https://github.com/BillyMerchan/Libre)
 </details>
 
+<details>
+<summary><small><b>Personal-Website</b></small></summary>
+
+Creating a portfolio website in order for people to get a snapshot of who I am without going to my GitHub.
+
+</details>
 
 
 
